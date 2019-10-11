@@ -1,4 +1,4 @@
 # Algorithm
 
-Sort
-Search
+Bloon sort
+Binary search
